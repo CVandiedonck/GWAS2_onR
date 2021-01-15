@@ -12,7 +12,7 @@ dependencies:
   - nodejs
   - libgomp
   - r-irkernel
-  - r-base>=4.0.2
+  - r-base=4
   - r-tidyverse 
   - r-Matrix
   - r-lattice
@@ -22,4 +22,5 @@ dependencies:
   - r-gplots
   - r-locfit
   - plink=1.90b6.18-0
+  - king=2.2.4
   - r-qqman==0.1.4
